@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "hola_mundo",
+    "slug": "hola_mundo",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "hola_mundo"
+}
